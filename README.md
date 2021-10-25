@@ -1,1 +1,1 @@
-prueba git con jira
+Se actualizó el readme del proyecto.
