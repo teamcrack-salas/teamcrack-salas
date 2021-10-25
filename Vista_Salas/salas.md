@@ -1,1 +1,1 @@
-uso de css bootstrap 5, implementación de plantilla.
+css bootstrap 5, implementación de plantilla.
